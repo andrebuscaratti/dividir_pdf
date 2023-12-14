@@ -1,2 +1,3 @@
-# dividir_pdf
-Executável em Python com a função de validar o número de páginas de um arquivo PDF e dividi-lo em múltiplos arquivos onde cada um armazena uma das páginas.
+# Divisor de PDF em Páginas Individuais
+
+Este repositório contém um script em Python que permite a fácil divisão de arquivos PDF em páginas individuais. A ferramenta oferece uma interface gráfica simples para solicitar o arquivo PDF de entrada e o diretório de saída para as páginas divididas.
